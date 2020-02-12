@@ -1,0 +1,195 @@
+        97-3-8
+[
+        {
+            "speaker": "Joey",
+            "utterance": "Here. I need to borrow some moisturizer.",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Monica",
+            "utterance": "For what?",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Joey",
+            "utterance": "Whaddya think? Today's the big day!",
+            "emotion": "joy"
+        },
+        {
+            "speaker": "Monica",
+            "utterance": "Oh my God. Okay, go into the bathroom, use whatever you want, just don't ever tell me what you did in there.",
+            "emotion": "disgust"
+        },
+        {
+            "speaker": "Joey",
+            "utterance": "Thank you!",
+            "emotion": "joy"
+        },
+        {
+            "speaker": "Chandler",
+            "utterance": "Where's Joey? His mom's on the phone.",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Monica",
+            "utterance": "He's in the bathroom. I don't think you wanna go in there!",
+            "emotion": "anger"
+        },
+        {
+            "speaker": "Chandler",
+            "utterance": "C'mon, we're roommates!  My eyes!! My eyes!!",
+            "emotion": "disgust"
+        },
+        {
+            "speaker": "Monica",
+            "utterance": "I warned you...",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Rachel",
+            "utterance": "Who is being loud?",
+            "emotion": "anger"
+        },
+        {
+            "speaker": "Chandler",
+            "utterance": "Oh, that would be Monica.",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Chandler",
+            "utterance": "Hey, listen, I wanna borrow a coupla things, Aurora spent the night, I really wanna make her breakfast.",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Monica",
+            "utterance": "Oh, you got the whole night, huh?",
+            "emotion": "surprise"
+        },
+        {
+            "speaker": "Chandler",
+            "utterance": "Yeah, well, I only have twenty minutes until Ethan, so, y'know..",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Rachel",
+            "utterance": "Ooh, do I sense a little bit of resentment?",
+            "emotion": "surprise"
+        },
+        {
+            "speaker": "Chandler",
+            "utterance": "No, no resentment, believe me, it's worth it.",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Chandler",
+            "utterance": "'Kay?",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Chandler",
+            "utterance": "Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life?",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Chandler",
+            "utterance": "Well, every- single- second is like that with Aurora.. and I've just wasted about thirty-five of them talking to you people, so, uh.. Monica, can you help me with the door?",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Monica",
+            "utterance": "Oh, um, Chandler?",
+            "emotion": "neutral"
+        },
+        {
+            "speaker": "Monica",
+            "utterance": "Y'know, the-the old Monica would-would remind you to scrub that Teflon pan with a plastic brush...But I'm not gonna do that.",
+            "emotion": "neutral"
+        }
+    ]
+
+    [
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "joy",
+            "surprise"
+        ],
+        [
+            "disgust",
+            "disgust"
+        ],
+        [
+            "joy",
+            "joy"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "anger",
+            "anger"
+        ],
+        [
+            "disgust",
+            "anger"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "anger",
+            "surprise"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "surprise",
+            "surprise"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "surprise",
+            "neutral"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ],
+        [
+            "neutral",
+            "neutral"
+        ]
+    ]
