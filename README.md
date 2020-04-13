@@ -6,8 +6,8 @@ Implementation of the paper [Real-Time Emotion Recognition via Attention GatedHi
 ## 1. Dataset
 
 Please find the datasets:
-- IEMOCAP:
-- MELD: 
+- [IEMOCAP](https://sail.usc.edu/iemocap/): IEMOCAP contains approximately 12 hours of audiovisual data, including video, speech, motion capture of face, text transcriptions.
+- [MELD](https://github.com/SenticNet/MELD): A multimodal multi-party dataset for emotion recognition in conversation. 
 
 ## 2. Run 
 
