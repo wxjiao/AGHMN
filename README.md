@@ -1,5 +1,5 @@
 # AGHMN
-Implementation of the paper [Real-Time Emotion Recognition via Attention GatedHierarchical Memory Network](https://arxiv.org/abs/1911.09075) in AAAI-2020.
+Implementation of the paper [Real-Time Emotion Recognition via Attention GatedHierarchical Memory Network](https://aaai.org/ojs/index.php/AAAI/article/view/6309) in AAAI-2020.
 
 (The scripts uploaded here need further clean, please wait.)
 
