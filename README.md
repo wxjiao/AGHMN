@@ -1,4 +1,4 @@
-# AGHMN: Real-Time Emotion Recognition via Attention GatedHierarchical Memory Network
+# AGHMN: Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network
 
 Implementation of the paper Real-Time Emotion Recognition via Attention GatedHierarchical Memory Network in AAAI-2020. [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6309)
 
